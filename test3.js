@@ -1,1 +1,2 @@
-alert("demo");
+alert("demo1");
+alert("2");
