@@ -1,4 +1,4 @@
-dqsfqdlert ("bdsgsgd");console.log("test4");
+dqsfqqeqdfdlert ("bdsgsgd");console.log("test4");
 tmp
 ympl
 jhjhjhfdqfsjhjh
@@ -7,9 +7,6 @@ kk
 jkjk
 dsff
 satisfiesfd
-f
-SVGFEDiffuseLightingElement
-FileSystemds
 f
 dsffd
 f
