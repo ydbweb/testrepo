@@ -8,11 +8,3 @@ lkkj
 kjjkqdf
 dsfqsd
 dsfqsdqd
-
-<<<<<<< HEAD
-qdhhhgvdwdgqdwwvx
-=======
-qd
->>>>>>> parent of d424c47 (bla)
-falsedq
-f
