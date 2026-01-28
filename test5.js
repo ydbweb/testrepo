@@ -12,3 +12,7 @@ dsfqsdqd
 qdhhhg
 falsedq
 f
+
+ReadableStreamBYOBRequest
+SVGDefsElement
+dfqs
