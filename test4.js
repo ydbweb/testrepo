@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-dqsqsfqsole.log("test4");
-tmp
-ympl
-=======
 dqsfqqeqdfdlert ("bdsgsgd");console.log("test4");
 tmp
 ympl
@@ -15,4 +10,5 @@ satisfiesfd
 f
 dsffd
 f
->>>>>>> main
+
+hbhh
